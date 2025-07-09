@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Red Embroidered Cotton Lawn",
+    "imageUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwcd8ea71f/images/hi-res/ala240346_d-pink_1.jpg?sw=800&sh=1200",
+    "price": "Rs 5098",
+    "currency": "PKR",
+    "fabric": "Cotton",
+    "stock": "In Stock",
+    "rating": "4.5"
+  },
+  {
+    "name": "Red-Black Embroidered Lawn",
+    "imageUrl": "https://faisalfabrics.pk/cdn/shop/files/42401489-_3.jpg?v=1709320392",
+    "price": "Rs 60480",
+    "currency": "PKR",
+    "fabric": "Silk",
+    "stock": "In Stock",
+    "rating": "4.8"
+  },
+  {
+    "name": "Blue Party Wear Dress",
+    "imageUrl": "https://www.5050.pk/uploaded/product/m22111_blue_1_1.jpg",
+    "price": "Rs 8700",
+    "currency": "PKR",
+    "fabric": "Denim",
+    "stock": "Limited Stock",
+    "rating": "4.7"
+  },
+  {
+    "name": "Floral Red Dress",
+    "imageUrl": "https://saraclothes.com/cdn/shop/products/42205013_2_900x_ab3409df-9bce-425c-94b6-e8fa3b70c3fa.jpg?v=1664927057",
+    "price": "Rs 4500",
+    "currency": "PKR",
+    "fabric": "Chiffon",
+    "stock": "In Stock",
+    "rating": "4.6"
+  },
+  {
+    "name": "Blue Embroidered Lawn",
+    "imageUrl": "https://nishatlinenfps.com/cdn/shop/products/42206412_2.jpg?v=1672386839",
+    "price": "Rs 12000",
+    "currency": "PKR",
+    "fabric": "Leather",
+    "stock": "Out of Stock",
+    "rating": "4.9"
+  },
+  {
+    "name": "Green Party Wear Dress",
+    "imageUrl": "https://saraclothes.com/cdn/shop/products/42206147_2_900x_4ba46c95-ed95-4a17-84ea-d0346147b7cb.jpg?v=1664927308",
+    "price": "Rs 35000",
+    "currency": "PKR",
+    "fabric": "Cotton",
+    "stock": "In Stock",
+    "rating": "4.3"
+  },
+  {
+    "name": "Yellow Formal Dress",
+    "imageUrl": "https://retail.com.pk/cdn/shop/products/PE23-80-_1.jpg?v=1706049802",
+    "price": "Rs 5500",
+    "currency": "PKR",
+    "fabric": "Silk Blend",
+    "stock": "Limited Stock",
+    "rating": "4.4"
+  },
+  {
+    "name": "Orange Modern Dress",
+    "imageUrl": "https://saraclothes.com/cdn/shop/products/42101332_1_900x_be8a6091-e240-4699-81e0-59662f4091a2.jpg?v=1631909360",
+    "price": "Rs 25000",
+    "currency": "PKR",
+    "fabric": "Cotton Lawn",
+    "stock": "In Stock",
+    "rating": "5.0"
+  },
+  {
+    "name": "Yellow Casual Dress",
+    "imageUrl": "https://kashaf.pk/cdn/shop/files/42205030-1_2.webp?v=1697574764",
+    "price": "Rs 2500",
+    "currency": "PKR",
+    "fabric": "Cotton",
+    "stock": "In Stock",
+    "rating": "4.2"
+  },
+  {
+    "name": "Brown Party Wear Dress",
+    "imageUrl": "https://i.pinimg.com/736x/ca/c6/cf/cac6cf9fdbdb467fd1e14fb3bed8d4f4.jpg",
+    "price": "Rs 15000",
+    "currency": "PKR",
+    "fabric": "Velvet",
+    "stock": "Limited Stock",
+    "rating": "4.8"
+  },
+  {
+    "name": "Brown-White Embroidered Lawn",
+    "imageUrl": "https://www.awwalboutique.com/cdn/shop/products/42101304_1_900x_f34b151a-14e2-41c6-b801-4ab08d0bacfa_800x.jpg?v=1623838425",
+    "price": "Rs 20000",
+    "currency": "PKR",
+    "fabric": "Wool Blend",
+    "stock": "In Stock",
+    "rating": "4.9"
+  },
+  {
+    "name": "Formal Dress",
+        "imageUrl": "https://saraclothes.com/cdn/shop/products/42301385-_6.jpg?v=1681169915",
+    "price": "Rs 9000",
+    "currency": "PKR",
+    "fabric": "Polyester",
+    "stock": "In Stock",
+    "rating": "4.6"
+  },
+   {
+    "name": "Pink Casual Dress",
+        "imageUrl": "https://faisalfabrics.pk/cdn/shop/files/42401491.jpg?v=1709320105",
+    "price": "Rs 7600",
+    "currency": "PKR",
+    "fabric": "Polyester",
+    "stock": "In Stock",
+    "rating": "4.6"
+  },
+   {
+    "name": "Grey Dress",
+        "imageUrl": "https://faisalfabrics.pk/cdn/shop/files/42401416-_7.jpg?v=1709398444",
+    "price": "Rs 9800",
+    "currency": "PKR",
+    "fabric": "Polyester",
+    "stock": "In Stock",
+    "rating": "4.6"
+  },
+   {
+    "name": "Pink Floral dress",
+        "imageUrl": "https://www.awwalboutique.com/cdn/shop/files/IMG_20240121_232548_800x.jpg?v=1705859956",
+    "price": "Rs 6555",
+    "currency": "PKR",
+    "fabric": "Polyester",
+    "stock": "In Stock",
+    "rating": "4.6"
+  }
+]
